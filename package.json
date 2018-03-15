@@ -1,0 +1,25 @@
+{
+  "name": "zadanie-14-8",
+  "version": "1.0.0",
+  "description": "Testowy package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[B\u001b[B\u001b[B\u001b[A\u001b[A\u001b[A"
+  },
+  "keywords": [
+    "["
+  ],
+  "author": "annaperkowska",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
