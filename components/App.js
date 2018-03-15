@@ -7,6 +7,7 @@ App = React.createClass({
     	};
 	},
 
+
 	handleSearch: function(searchingText) {
 		this.setState({
 			loading: true
